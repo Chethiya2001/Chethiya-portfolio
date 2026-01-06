@@ -1,0 +1,8 @@
+{
+  "name": "Chethiya's Interactive Developer Portfolio",
+  "description": "A high-end, animated portfolio featuring a custom AI assistant, interactive skill visualizations, and project highlights for a Software Developer and Designer specialized in .NET, React, Flutter, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
