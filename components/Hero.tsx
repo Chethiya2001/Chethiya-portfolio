@@ -29,7 +29,7 @@ const Hero: React.FC = () => {
         <div className="inline-block px-4 py-1.5 mb-6 border border-blue-500/30 bg-blue-500/10 rounded-full backdrop-blur-sm transform hover:scale-105 transition-transform cursor-default">
           <span className="text-blue-400 text-xs font-bold tracking-widest uppercase flex items-center gap-2">
             <span className="w-2 h-2 bg-blue-400 rounded-full animate-ping"></span>
-            Professional Software Architect
+            Professional Software Developer
           </span>
         </div>
         
@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
         </h1>
         
         <p className="max-w-2xl mx-auto text-gray-400 text-lg md:text-xl mb-12 leading-relaxed font-medium">
-          A Full-stack Architect & Creative Designer blending <span className="text-white font-bold tracking-tight">3+ years</span> of technical precision 
+          A Full-stack Developer & Creative Designer blending <span className="text-white font-bold tracking-tight">3+ years</span> of technical precision 
           in <span className="text-blue-400 font-bold">.NET, React, & Flutter</span> with visionary design.
         </p>
 

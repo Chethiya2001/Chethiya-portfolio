@@ -23,7 +23,7 @@ export const PROJECTS: Project[] = [
     id: '2',
     title: 'Student Management System',
     description: 'A comprehensive educational management platform developed using .NET Core and Angular.',
-    longDescription: 'An enterprise-grade solution designed to handle academic records, student enrollment, and grading systems. It utilizes a robust SQL Server architecture with a decoupled Angular frontend for maximum scalability.',
+    longDescription: 'An enterprise-grade solution designed to handle academic records, student enrollment, and grading systems. It utilizes a robust SQL Server Developerure with a decoupled Angular frontend for maximum scalability.',
     features: [
       'Role-based Authorization',
       'Dynamic Reporting Dashboard',
